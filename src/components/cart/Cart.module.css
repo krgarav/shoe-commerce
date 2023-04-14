@@ -1,0 +1,20 @@
+.box {
+  display: flex;
+  justify-content: space-between;
+}
+.box2 {
+  display: flex;
+  justify-content: space-between;
+}
+.ul {
+  list-style: none;
+}
+.buttonOrder{
+  display: flex ;
+  float: right;
+  justify-content: end;
+}
+.buttonOrder button{
+  margin: 10px;
+  padding: 5px;
+}

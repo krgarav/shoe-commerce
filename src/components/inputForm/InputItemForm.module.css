@@ -1,0 +1,20 @@
+.box {
+  background-color: aquamarine;
+  margin: 5px auto;
+  width: 70%;
+  padding: 20px;
+}
+
+
+.input-items {
+  margin: 10px;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.input-items label {
+  display: block;
+}

@@ -1,0 +1,14 @@
+.input {
+  display: block;
+}
+.input label {
+  margin: 5px;
+  padding: 5px;
+  display: block;
+}
+
+.input input {
+  margin: 5px;
+  padding: 5px;
+  display: block;
+}
